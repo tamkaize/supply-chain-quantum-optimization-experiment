@@ -4,7 +4,7 @@
 
 This repo benchmarks a simple 3rd-order (HUBO) supply-chain optimization problem for selecting **one supplier, one product, and one carrier** to minimize a cost score on a relatively modest search space (**20 binary variables → (2^{20})** configurations) of binary decisions.
 
-Solvers used benchmarking a **photonic quantum computer** (DIRAC-3) against a best-in-class **classical solver** (Gurobi)
+Solvers used for benchmarking involve a **photonic quantum computer** (DIRAC-3) and a state-of-the-art **classical solvers** (Gurobi)
 
 Given that Gurobi does not natively solve HUBO problems, we applied **AND-Gadget penalty** to reduce the HUBO (3rd or higher order) formulation to QUBO (2nd-order), enabling apples-to-apples runs on the same objective function.
 
