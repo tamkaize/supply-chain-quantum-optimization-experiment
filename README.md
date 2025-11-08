@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This repo benchmarks a simple 3rd-order (HUBO) supply-chain optimization problem for selecting **one supplier, one product, and one carrier** to minimize a cost score on a relatively modest search space (**20 binary variables → (2^{20})** configurations) of binary decisions.
+This repo benchmarks a simple 3rd-order (HUBO) supply-chain optimization problem for selecting **one supplier, one product, and one carrier** to minimize a cost score on a relatively modest search space (2^20 terms) of binary decisions.
 
 Solvers used for benchmarking involve a **photonic quantum computer** (DIRAC-3) and a state-of-the-art **classical solvers** (Gurobi)
 
