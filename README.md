@@ -1,4 +1,4 @@
-# Quantum and Classical Cubic-Order Binary Optimization Benchmarking for Supply-Chain Problems
+# Quantum and Classical Higher-Order Binary Optimization Benchmarking for Supply-Chain Problems
 
 # Project Overview
 
