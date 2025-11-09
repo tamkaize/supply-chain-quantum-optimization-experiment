@@ -2,13 +2,13 @@
 
 ## **Table of Contents**
 
-1. [Project Overview](#1-project-overview)  
-2. [Key Features](#2-key-features)  
-3. [Technical Implementation](#3-technical-implementation)  
-4. [Technologies Used](#4-technologies-used)  
-5. [Key Results](#5-key-results)  
-6. [Skills Demonstrated](#6-skills-demonstrated)  
-7. [Future Improvements](#7-future-improvements)
+1. [Project Overview](#project-overview)
+2. [Key Features](#key-features)
+3. [Technical Implementation](#technical-implementation)
+4. [Technologies Used](#technologies-used)
+5. [Key Results](#key-results)
+6. [Skills Demonstrated](#skills-demonstrated)
+7. [Future Improvements](#future-improvements)
 
 # Project Overview
 
