@@ -1,4 +1,14 @@
-# Quantum and Classical Higher-Order Binary Optimization Benchmarking for Supply-Chain Problems
+# 📊 Quantum and Classical Higher-Order Binary Optimization Benchmarking for Supply-Chain Problems
+
+## **Table of Contents**
+
+1. [Project Overview](#1-project-overview)  
+2. [Key Features](#2-key-features)  
+3. [Technical Implementation](#3-technical-implementation)  
+4. [Technologies Used](#4-technologies-used)  
+5. [Key Results](#5-key-results)  
+6. [Skills Demonstrated](#6-skills-demonstrated)  
+7. [Future Improvements](#7-future-improvements)
 
 # Project Overview
 
