@@ -61,8 +61,8 @@ Link: https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/discu
 ## Technologies Used
 
 * **Language:** Python 3.x
-* **Libraries:** `numpy`, `pandas`
-* **Solvers:** **Gurobi** (`gurobipy`; license required), **DIRAC-3** SDK (with credentials)
+* **Libraries:** `numpy`, `pandas`, `gurobipy`, `qci_client`
+* **Solvers:** **Gurobi** (license required), **DIRAC-3** SDK (with credentials)
 * **Environment:** Jupyter Notebooks or CLI scripts
 
 ---
@@ -94,10 +94,9 @@ Link: https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/discu
 
 ## Future Improvements
 
-* **Scale & Realism:** Larger (n), more categories, and real-world datasets beyond synthetic augmentation.
-* **Tuning:** Systematic sweeps over DIRAC-3 sampling/schedule and Gurobi polishing/relaxation settings.
-* **Reporting:** Richer diagnostics (penalty breakdowns, flip traces, factorization stats).
-* **Extensions:** Alternative reduction gadgets; constraint-preserving rounding/refinement.
+* **Scalability and Realism:** Extend the model to a larger number of terms, include additional category sets, and incorporate real-world datasets beyond synthetic augmentation.
+* **Enhanced Reporting:** Develop richer diagnostics, including penalty decompositions, flip-trace visualizations, and solver factorization statistics for deeper interpretability.
+* **Methodological Extensions:** Explore problem domains where quantum methods like DIRAC-3 (capable of natively solving up to fifth-order polynomial objectives) are theoretically expected to have a definitive advantage.
 
 ---
 
