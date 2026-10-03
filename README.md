@@ -112,4 +112,4 @@ Link: https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/discu
 
 ## License
 
-This project is released under the **MIT License** (or your preferred license). Please cite appropriately if you use any part of this work.
+This project is released under the [MIT License](LICENSE). Please cite appropriately if you use any part of this work.
